@@ -38,7 +38,7 @@ legend('Speed','DASensor', 'lick');
 hold off;
 title('an example single-session data');
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%% plotting a signle PSTH
+%% plotting a single PSTH
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% look at behaviors or neural signals aligned by a specific event of interest 
 % using plot_timecourse function (PSTHs)
